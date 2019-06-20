@@ -1,0 +1,14 @@
+{
+  "name": "google_puppeteer",
+  "version": "1.0.0",
+  "description": "Google Puppeteer Test",
+  "main": "server/index.js",
+  "dependencies": {
+    "puppeteer": "^1.17.0"
+  },
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
